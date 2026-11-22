@@ -1,0 +1,52 @@
+{
+  "tagline": "web developer & homelab tinkerer",
+  "location": "brisbane, au",
+  "rows": {
+    "work": [
+      "steady digital",
+      "web",
+      "automation",
+      "ai"
+    ],
+    "stack": [
+      "astro",
+      "typescript",
+      "php",
+      "wordpress"
+    ],
+    "homelab": [
+      "proxmox",
+      "komodo",
+      "traefik",
+      "forgejo"
+    ],
+    "ops": [
+      "ansible",
+      "docker",
+      "bash",
+      "cloud"
+    ],
+    "ai": [
+      "pi",
+      "hermes",
+      "omlx",
+      "n8n"
+    ],
+    "desk": [
+      "neovim",
+      "ghostty",
+      "herdr",
+      "rex"
+    ]
+  },
+  "upgrade_command": "brendan --upgrade devops",
+  "upgrade_progress": 0.6,
+  "learning": [
+    "kubernetes",
+    "terraform",
+    "aws",
+    "go"
+  ],
+  "site": "steadydigital.co",
+  "window_title": "brendan@github: ~"
+}
